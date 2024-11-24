@@ -1,4 +1,4 @@
----
+Tachiyomi
 title: Diagnosis
 titleTemplate: Troubleshooting - Guides
 description: Facing issues with a source or the app? Follow these steps to troubleshoot and find solutions.
